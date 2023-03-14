@@ -1,0 +1,10 @@
+.titulo{
+    color: blue;
+    text-align: center;
+    background-color: aquamarine;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
